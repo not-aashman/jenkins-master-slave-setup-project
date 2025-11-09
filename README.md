@@ -1,4 +1,4 @@
-# Jenkins Master–Agent (Slave) Setup — Submission
+# Jenkins Master–Slave Setup — Submission
 
 **Student:** Aashman Singh Verma
 **Date:** 2025-11-09
