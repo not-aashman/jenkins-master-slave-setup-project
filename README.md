@@ -86,17 +86,6 @@ pipeline {
 
 Create **New Item → Pipeline → demo-on-agent**, paste the script above, Save, **Build Now**, and capture the Console Output.
 
----
-
-## Screenshots to include (put in `screenshots/`)
-
-1. Jenkins Dashboard (after setup).
-2. PowerShell `docker ps` showing `jenkins-master` container.
-3. Jenkins Nodes page showing `agent1` **Online**.
-4. PowerShell window running `agent.jar` showing **Connected**.
-5. Console Output of `demo-on-agent` pipeline.
-
----
 
 ## Notes
 
