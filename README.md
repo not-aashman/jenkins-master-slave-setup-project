@@ -1,6 +1,8 @@
 # Jenkins Master–Slave Setup — Submission
 
 **Student:** Aashman Singh Verma
+
+
 **Date:** 2025-11-09
 
 This repository demonstrates a distributed Jenkins setup with one controller (master) and one inbound agent (slave). The controller runs in Docker; the agent runs on Windows using `agent.jar` (WebSocket). A proof Pipeline executes on the agent.
